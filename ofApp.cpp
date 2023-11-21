@@ -56,9 +56,9 @@ void ofApp::update(){
 			
 			 
 		}
-		ofVec2f fj = (ofVec2f(ofGetWidth() / 2, ofGetHeight() / 2) - a->Position).normalized() * 10;
+		//ofVec2f fj = (ofVec2f(ofGetWidth() / 2, ofGetHeight() / 2) - a->Position).normalized() * 10;
 		//if (ofRandomf() > 0.99) { p.push_back(new Particle(a->Position, static_cast<Colors>(ofRandom(0, NumColors)))); }
-		a->Update(ofGetLastFrameTime(), (Rmax * acceleration) + fj);
+		a->Update(ofGetLastFrameTime(), (Rmax * acceleration) /*+ fj*/);
 	}
 
 }
