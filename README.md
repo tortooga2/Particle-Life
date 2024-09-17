@@ -1,0 +1,1 @@
+Insanely basic. I don't even use any form of spacial hashing. I legit just use a nested for loop for interaction checks. If you want to see a more advanced spatial hashing algorithm checkout my repo particle-sim
