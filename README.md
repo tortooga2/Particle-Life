@@ -1,1 +1,1 @@
-Insanely basic. I don't even use any form of spacial hashing. I legit just use a nested for loop for interaction checks. If you want to see a more advanced spatial hashing algorithm checkout my repo particle-sim
+Insanely basic. I don't even use any form of spacial hashing. I legit just use a nested for loop for interaction checks. If you want to see a more advanced spatial hashing algorithm checkout my repo particle-sim. Anyways, its still pretty cool. On my mac book I still get a couple thousand particles. God bless C++.
